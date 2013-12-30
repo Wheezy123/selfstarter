@@ -10,7 +10,7 @@ gem 'less-rails'
 gem 'twitter-bootstrap-rails'
 
 group :development do
-  gem 'sqlite3'
+  gem 'pg'
   gem 'pry-rails'
 end
 
