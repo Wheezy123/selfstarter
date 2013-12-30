@@ -79,7 +79,7 @@ ships: "Campaign ends in <%= (DateTime.now + 31).strftime("%e") %> days!"
 # On Lockitron, it's "Reserve Now"
 call_to_action: "Contribute Now"
 # On Lockitron, this is "Only $149 for a limited time"
-price_human: "Contribute as much or as little as you like"
+price_human: "Help us raise money to open a new location, and be entered to win prizes!"
 
 # The paragraph below the price. You'd probably say something about how you're not going to charge them before it ships (so it's less risky).
 dont_give_them_a_reason_to_say_no: "*Your card will NOT be charged unless the restaurant reaches its fundraising goal"
